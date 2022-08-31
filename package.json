@@ -1,0 +1,21 @@
+{
+  "name": "chat-app-api",
+  "version": "1.0.0",
+  "description": "A chat app built with nodejs and socket io",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Olatinwo Francis Olamide",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "expresss": "^0.0.0",
+    "moment": "^2.29.4",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
